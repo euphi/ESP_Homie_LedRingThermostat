@@ -1,0 +1,4 @@
+.pio
+data/homie/config.json
+.settings/
+src/main.cpp
